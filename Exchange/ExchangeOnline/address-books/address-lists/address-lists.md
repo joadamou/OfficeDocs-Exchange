@@ -26,7 +26,7 @@ An address list is a collection of mail-enabled recipient objects in Exchange On
 
 - **Address lists**: Address lists are subsets of recipients that are grouped together in one list, which makes them easier to find by users. Exchange Online comes with several built-in address lists, and you can create more based on you organization's needs.
 
-- **Offline address books (OABs)**: OABs contain address lists and GALs. OABs are used by Outlook clients in cached Exchange mode to provide local access to address lists and GALs for recipient look-ups. For more information, see [Offline address books in Exchange Online].
+- **Offline address books (OABs)**: OABs contain address lists and GALs. OABs are used by Outlook clients in cached Exchange mode to provide local access to address lists and GALs for recipient look-ups. For more information, see [Offline address books in Exchange Online](../offline-address-books/offline-address-books.md).
 
 Users in your organization use address lists and the GAL to find recipients for email messages. Here's an example of what address lists look like in Outlook 2016:
 
